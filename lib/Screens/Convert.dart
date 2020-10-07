@@ -3,7 +3,7 @@ import 'dart:convert';
 import 'dart:io';
 
 import 'package:Mintin_techTest/Config/Config.dart';
-import 'package:Mintin_techTest/button.dart';
+import 'package:Mintin_techTest/components/button.dart';
 import 'package:Mintin_techTest/constants/colorConstant/color_constant.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_facebook_login/flutter_facebook_login.dart';

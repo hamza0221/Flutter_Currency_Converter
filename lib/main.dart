@@ -2,7 +2,7 @@ import 'dart:convert';
 import 'dart:io';
 import 'package:Mintin_techTest/Screens/Login_screen.dart';
 import 'package:Mintin_techTest/init.dart';
-import 'package:Mintin_techTest/splash_screen.dart';
+import 'package:Mintin_techTest/Screens/splash_screen.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:http/http.dart';
