@@ -325,9 +325,7 @@ class _ConvertScreenState extends State<ConvertScreen> {
     ));
   }
 
-  void _twitter() {}
 
-  void _facebook() {}
 
   void _convert(String from, String to,String amount) async {
     var queryParametersSelectUser = {
