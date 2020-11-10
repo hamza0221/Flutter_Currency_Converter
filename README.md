@@ -1,16 +1,15 @@
-# Mintin_techTest
+# Flutter Currency Converter 
 
-A new Flutter project.
+This a flutter Currency converter app using Rest http api for exchange currency and SQLFLITE for recording exchange operations locally (History)
 
-## Getting Started
+## Free Rest api exchange Currency
 
-This project is a starting point for a Flutter application.
+https://exchangeratesapi.io/
 
-A few resources to get you started if this is your first Flutter project:
+## SCREEN SHOTS
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+![Alt text](/SCREENSHOTS/SCREEN1.jpg?raw=true "Optional Title")
+![Alt text](/SCREENSHOTS/SCREEN2.jpg?raw=true "Optional Title")
+![Alt text](/SCREENSHOTS/SCREEN3.jpg?raw=true "Optional Title")
+![Alt text](/SCREENSHOTS/SCREEN4.jpg?raw=true "Optional Title")
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
