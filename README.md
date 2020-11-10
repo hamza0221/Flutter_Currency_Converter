@@ -8,7 +8,7 @@ https://exchangeratesapi.io/
 
 ## SCREEN SHOTS
 
-![Alt text](/SCREENSHOTS/SCREEN1.jpg?raw=true "Optional Title")
+![Alt text](/SCREENSHOTS/SCREEN1.jpg=100*100?raw=true "Optional Title")
 ![Alt text](/SCREENSHOTS/SCREEN2.jpg?raw=true "Optional Title")
 ![Alt text](/SCREENSHOTS/SCREEN3.jpg?raw=true "Optional Title")
 ![Alt text](/SCREENSHOTS/SCREEN4.jpg?raw=true "Optional Title")
