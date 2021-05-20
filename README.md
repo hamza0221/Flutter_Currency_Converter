@@ -8,8 +8,10 @@ https://exchangeratesapi.io/
 
 ## SCREEN SHOTS
 
-![Alt text](/SCREENSHOTS/SCREEN1.jpg)
-![Alt text](/SCREENSHOTS/SCREEN2.jpg?raw=true "Optional Title")
-![Alt text](/SCREENSHOTS/SCREEN3.jpg?raw=true "Optional Title")
-![Alt text](/SCREENSHOTS/SCREEN4.jpg?raw=true "Optional Title")
+<img src="https://github.com/hamza0221/Flutter_Currency_Converter/blob/master/SCREENSHOTS/SCREEN1.jpg" width="250"  /> |
+<img src="https://github.com/hamza0221/Flutter_Currency_Converter/blob/master/SCREENSHOTS/SCREEN2.jpg" width="250"  />|
+<img src="https://github.com/hamza0221/Flutter_Currency_Converter/blob/master/SCREENSHOTS/SCREEN3.jpg" width="250"  />|
+<img src="https://github.com/hamza0221/Flutter_Currency_Converter/blob/master/SCREENSHOTS/SCREEN4.jpg" width="250"  />
+
+
 
